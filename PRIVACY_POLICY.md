@@ -55,10 +55,14 @@ Autonion is an open-source project. We believe that applications requiring syste
 ## 7. Children's Privacy
 Our App does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
 
-## 8. Changes to This Privacy Policy
+## 8. Your Data Protection Rights (GDPR, CCPA, CalOPPA)
+Depending on your location (such as the EU or California), you have specific rights regarding your personal data, including the right to request access, deletion, or restriction of your data. 
+Because Autonion processes your data locally on your device and **does not** collect, store, or sell your personal data on our servers, we inherently comply with data minimization principles. There is no personal data stored on our servers for us to delete or provide upon request. If you actively connect a third-party Cloud AI provider, any requests regarding data processed by them must be directed to that specific provider.
+
+## 9. Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Effective Date" at the top. You are advised to review this Privacy Policy periodically for any changes.
 
-## 9. Contact Us
+## 10. Contact Us
 If you have questions or comments about this Privacy Policy, please contact:  
 Guru Preetam (Developer of Autonion)  
 <gurupreetam.ai@gmail.com>  
