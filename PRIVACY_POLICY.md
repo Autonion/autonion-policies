@@ -59,7 +59,7 @@ Our App does not address anyone under the age of 13. We do not knowingly collect
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Effective Date" at the top. You are advised to review this Privacy Policy periodically for any changes.
 
 ## 9. Contact Us
-If you have questions or comments about this Privacy Policy, please contact:
-Guru Preetam (Developer of Autonion)
-<gurupreetam.ai@gmail.com>
+If you have questions or comments about this Privacy Policy, please contact:  
+Guru Preetam (Developer of Autonion)  
+<gurupreetam.ai@gmail.com>  
 <https://github.com/Autonion>
